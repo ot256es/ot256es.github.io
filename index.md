@@ -13,4 +13,5 @@ As I said:
 
 > World is virtual.
 
-![Portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png"/>
+
