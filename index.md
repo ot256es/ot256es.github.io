@@ -9,3 +9,6 @@ doing my work in the future. I hope we will have fun.
 * workaholic 24/7
 * loves rain
 
+As I said:
+
+> World is virtual.
